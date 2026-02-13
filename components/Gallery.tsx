@@ -8,7 +8,7 @@ import { ArrowDown } from "lucide-react";
 const MEMORIES = [
     {
         id: 1,
-        src: "/videos/memories/Birthday-girl.mp4",
+        src: "/videos/memories/Birthday-Girl.mp4",
         type: "video",
         caption: "Dancing cutie patootie",
         captionStyle: "top-1/2 -translate-y-1/2 left-[-40px] rotate-[-15deg] z-50",
@@ -28,7 +28,7 @@ const MEMORIES = [
     },
     {
         id: 3,
-        src: "/videos/memories/My-sexy-gyal.mp4",
+        src: "/videos/memories/My-Sexy-Gyal.mp4",
         type: "video",
         caption: "My Sexy View",
         captionStyle: "bottom-[-25px] left-1/2 -translate-x-1/2 rotate-[3deg] z-50",
